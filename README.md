@@ -2,6 +2,8 @@
 ![Header](https://github.com/AikokulUlan-qa/AikokulUlan-qa/blob/main/assets/video.gif)
 ![giphy (2)](https://github.com/AikokulUlan-qa/AikokulUlan-qa/assets/154068607/350bf63a-88f3-45c5-9d5a-7dd83e8fb286)
 
+💻 Technology stack
+______________________________________________________________________________________________________________
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
