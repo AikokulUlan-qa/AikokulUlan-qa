@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Header](https://github.com/AikokulUlan-qa/AikokulUlan-qa/blob/main/assets/video.gif)
-![giphy](https://github.com/AikokulUlan-qa/AikokulUlan-qa/assets/154068607/76a13eda-11bf-44d9-822f-20df67ebfd78)
+![giphy (2)](https://github.com/AikokulUlan-qa/AikokulUlan-qa/assets/154068607/350bf63a-88f3-45c5-9d5a-7dd83e8fb286)
+
 
 <!--
 **AikokulUlan-qa/AikokulUlan-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
