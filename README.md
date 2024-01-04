@@ -2,6 +2,16 @@
 ![Header](https://github.com/AikokulUlan-qa/AikokulUlan-qa/blob/main/assets/video.gif)
 ![giphy (2)](https://github.com/AikokulUlan-qa/AikokulUlan-qa/assets/154068607/350bf63a-88f3-45c5-9d5a-7dd83e8fb286)
 
+
+### About me :sunglasses:
+- QA engineer from Moscow.
+- Experience in testing since 2023
+- I’m currently learning QA Automation
+
+
+
+
+
 💻 Technology stack
 ______________________________________________________________________________________________________________
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -11,6 +21,13 @@ ________________________________________________________________________________
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+⚓ Contact me :)
+
+
+
+
 <!--
 **AikokulUlan-qa/AikokulUlan-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
