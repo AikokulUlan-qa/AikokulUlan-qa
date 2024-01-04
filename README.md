@@ -21,7 +21,7 @@ ________________________________________________________________________________
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![Json](https://img.shields.io/badge/-Json-000010?style=for-the-badge&logo=Json)
 ⚓ Contact me :)
 
 
